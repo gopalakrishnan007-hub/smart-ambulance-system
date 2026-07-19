@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'ambulance_page.dart';
-import 'traffic_page.dart';
-import 'hospital_page.dart';
+import 'screens/ambulance_page.dart';
+import 'screens/traffic_page.dart';
+import 'screens/hospital_page.dart';
 
 
 void main() {
